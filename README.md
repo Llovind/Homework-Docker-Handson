@@ -6,7 +6,7 @@ Repository ini berisi implementasi tugas praktikum Docker Dasar yang mencakup pe
 
 | Informasi | Detail |
 |---|---|
-| Nama | Lovind |
+| Nama | Lovind Luthfan Hakeem Firdaus |
 | NIM | 101012330245 |
 | Mata Kuliah | Praktikum Docker |
 | Repository | Homework-Docker-Handson |
